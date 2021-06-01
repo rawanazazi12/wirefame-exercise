@@ -14,7 +14,7 @@ header{
 }
 header img {
     float: left;
-    padding-left: 12%;
+    padding-left: 14%;
     padding-top: 15px;
     padding-bottom: 15px;
 
@@ -37,7 +37,7 @@ text-decoration: none;
 }
 
 #first {
-padding-left: 12%;
+padding-left: 14%;
 padding-right: 10%;
 padding-top: 30px;
 
@@ -47,13 +47,13 @@ padding-top: 30px;
    padding-left: 2%;
    padding-top: 30px;
    position: relative;
-   right: 10%;
-   left: 10%;
+   right: 12%;
+   left: 12%;
 }
 
 #third img{
     float: left;
-    padding-left: 2%;
+    padding-left: 4%;
     padding-top: 30px;
     position: relative;
     right: 10%;
@@ -63,7 +63,7 @@ padding-top: 30px;
 }
 
 #fourth{
-    padding-right: 15%;
+    padding-right: 13%;
     padding-top: 30px;
     margin-left: 80px;
     
@@ -74,7 +74,7 @@ padding-top: 30px;
     font-family: 'Trebuchet MS';
     font-size: 22px;
     font-weight: bold ;
-    padding-left:55.5%;
+    padding-left:54.5%;
 
 }
 
@@ -86,7 +86,7 @@ padding-top: 30px;
     padding-left : 17%;
     overflow: scroll;
     font-style: italic;
-    height: 314px;
+    height: 293px;
 
 }
 
